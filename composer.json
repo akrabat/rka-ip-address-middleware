@@ -1,10 +1,6 @@
 {
     "name": "akrabat/rka-ip-address-middleware",
-    "description": "PSR-15 middleware that determines the client IP address and stores it as a ServerRequest attribute",
-    "keywords": [
-        "psr7", "middleware", "ip"
-    ],
-    "homepage": "http://github.com/akrabat/rka-ip-address-middleware",
+    "description": "Package abandoned. Use akrabat/ip-address-middleware from now on",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
